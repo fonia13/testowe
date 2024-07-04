@@ -4,3 +4,5 @@ Utworzyć plan testu dla MrBuggi 7
 uxuhsuhuis
 jxjush
 nsjsn
+
+PRÓBA WYSŁANIA NA GITHUBa
